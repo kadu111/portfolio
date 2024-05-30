@@ -1,10 +1,8 @@
-```
-
 # Portfólio
 
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+![image](https://github.com/kadu111/portfolio/blob/main/assets/me.png?raw=true)
 
 ## Ferramentas utilizadas:
 
@@ -19,5 +17,3 @@ Olá, Bem vindo ao meu projeto de portfólio.
 ### Carlos Eduardo
 
 ### [Linkedin](https://www.linkedin.com/in/carlos-eduardo-souza111/)
-
-```
