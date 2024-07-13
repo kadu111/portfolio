@@ -103,6 +103,11 @@ body{
     align-self: center;
 }
 
+.apresentacao__conteudo__texto__projetos{
+    font-size: 1rem;
+    font-family: var(--fonte-secundaria);
+}
+
 .apresentacao__links{
     display: flex;
     flex-direction: column;
@@ -144,7 +149,7 @@ body{
     display: flex;
     gap: 25%;
     align-items: center;
-    padding: 10%;
+    padding: 8%;
 }
 
 .apresentacao__links__projetos__link{
